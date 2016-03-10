@@ -1,0 +1,20 @@
+{
+  "name": "danielestefanucci/dsAlert",
+  "description": "Sweet Alert",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniele Stefanucci",
+      "email": "daniele.stefanucci@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/support": "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "danielestefanucci\\dsAlert\\": "src/"
+    }
+  }
+}
